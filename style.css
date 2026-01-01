@@ -14,7 +14,7 @@ body {
     /* ẢNH NỀN */
     background:
         linear-gradient(rgba(0,0,0,0.25), rgba(0,0,0,0.25)),
-        url("./anhNen.png") no-repeat center top / cover;
+        url("./anhNenMoi.jpg") no-repeat center top / cover;
 
     background-attachment: fixed;
 }
