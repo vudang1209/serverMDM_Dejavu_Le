@@ -175,13 +175,3 @@ a {
     50% { opacity: 1; }
     to { opacity: 0; }
 }
-* {
-    -webkit-user-select: none !important;
-    user-select: none !important;
-    -webkit-touch-callout: none !important;
-    -webkit-user-drag: none !important;
-}
-
-img {
-    pointer-events: none !important;
-}
